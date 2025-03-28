@@ -1,4 +1,4 @@
-# Hi there, I'm Irma Rohmatillah 👋
+# Hi, I'm Irma Rohmatillah 👋
 
 ## About me:
 - 🎓 I'm currently studying Informatics Engineering at Sunan Gunung Djati State Islamic University
