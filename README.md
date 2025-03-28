@@ -11,7 +11,7 @@ I'm a passionate Informatics Engineering student with a keen interest in transfo
 **Science Stream** | Tasikmalaya, Indonesia | 06/2019 - 05/2022
 
 ## 📊 GitHub Stats
-![Irma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=irma311111&show_icons=true&theme=radical)
+![Irma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=irma3111111&show_icons=true&theme=radical)
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irma-rhmtllh/)
